@@ -36,19 +36,19 @@ git clone https://github.com/vku-open-source/llm-service.git
 git clone https://github.com/vku-open-source/notification_service.git
 ```
 
-#### vku-open-source/lcdp-ui
+#### User Interface (vku-open-source/lcdp-ui)
 
 - Go to [installation tutorial](https://github.com/vku-open-source/lcdp-ui#installation)
 
-#### vku-open-source/lcdp-backend
+#### Backend (vku-open-source/lcdp-backend)
 
-- Go to [installation tutorial](https://github.com/vku-open-source/lcdp-backend#installation)
+- Go to [installation tutorial](https://github.com/vku-open-source/lcdp-backend?tab=readme-ov-file#ii-installation-and-running-applications)
 
-#### vku-open-source/llm-service
+#### AI Service (vku-open-source/llm-service)
 
-- Go to [installation tutorial](https://github.com/vku-open-source/llm-service#installation)
+- Go to [installation tutorial](https://github.com/vku-open-source/llm-service?tab=readme-ov-file#launch-app)
 
-#### vku-open-source/notification_service
+#### Notification Serivce (vku-open-source/notification_service)
 
 - Go to [installation tutorial](https://github.com/vku-open-source/notification_service#installation)
 
@@ -134,7 +134,7 @@ docker compose down
 
 ## 📜 License
 
-This project is licensed under the terms of the [MIT License](LICENSE)
+This project is licensed under the terms of the [Apache V2.0](LICENSE)
 
 ---
 
