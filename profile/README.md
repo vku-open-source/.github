@@ -103,8 +103,8 @@ Emergix is built using modern low-code and open-source tools to ensure flexibili
 
 - **Disaster Visualization:** Analyze and visualize conditions such as floods, landslides, and other hazards based on location-specific data.
 - **Emergency Operation Plan (EOP):** Automatically generate comprehensive EOPs based on collected data, customized for specific disaster scenarios.
-- **Supportive Task Automation:** Define and generate supportive tasks aligned with the EOP, reducing manual overhead during emergencies.
-- **Real-time Documentation:** Provide essential documentation and guidelines tailored to disaster situations to assist responders and affected individuals.
+- **Rescue Task Automation:** Define and generate rescue tasks aligned with the EOP, reducing manual overhead during emergencies.
+- **Supportive Documentation:** Provide essential documentation and guidelines tailored to disaster situations to assist responders and affected individuals.
 - **Community Collaboration:** Enable users to share updates, report conditions, and request assistance within their local communities.
 - **Post-Disaster Analysis:** Analyze data after disasters to inform recovery efforts and improve future disaster response strategies.
 
