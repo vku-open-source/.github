@@ -20,6 +20,9 @@ It includes four repositories:
 - [Docker](https://docs.docker.com/get-docker/)
 - [Node.js (v20+)](https://nodejs.org/)
 - [Python (v3.10+)](https://www.python.org/downloads/)
+- [AppSmith](https://www.appsmith.com/)
+- [Strapi](https://strapi.io/)
+- [Dify](https://dify.ai/)
 
 ---
 
