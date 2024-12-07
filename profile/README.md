@@ -103,8 +103,7 @@ Emergix is built using modern low-code and open-source tools to ensure flexibili
 
 #### System architecutre
 
-![image](https://hackmd.io/_uploads/BJpq6obVyx.png)
-
+![image](https://github.com/user-attachments/assets/89c43480-73a3-4a55-a9d9-8d911b019109)
 
 #### 
 
