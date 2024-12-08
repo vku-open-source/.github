@@ -11,6 +11,8 @@ It includes four repositories:
 - [LLM Service](https://github.com/vku-open-source/llm-service)
 - [Notification Service](https://github.com/vku-open-source/notification_service)
 
+> **Note** : You can find information about third-party licenses which used in this project in [this file](THIRD_PARTY_LICENSE_README.txt).
+
 ---
 
 ## 🚀 Getting Started
