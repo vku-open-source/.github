@@ -10,6 +10,7 @@ It includes four repositories:
 - [Backend](https://github.com/vku-open-source/lcdp-backend)
 - [LLM Service](https://github.com/vku-open-source/llm-service)
 - [Notification Service](https://github.com/vku-open-source/notification_service)
+- [Dify Agents](https://github.com/vku-open-source/dify-agents)
 
 > **Note** : You can find information about third-party licenses which used in this project in [this file](THIRD_PARTY_LICENSE_README.txt).
 
@@ -56,6 +57,10 @@ git clone https://github.com/vku-open-source/notification_service.git
 #### Notification Serivce (vku-open-source/notification_service)
 
 - Go to [installation tutorial](https://github.com/vku-open-source/notification_service#installation)
+
+#### Dify agents (vku-open-source/dify-agents)
+
+- Go to [installation tutorial](https://github.com/vku-open-source/dify-agents?tab=readme-ov-file#installation)
 
 <!-- #### Set Up the Environment
 
